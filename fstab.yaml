@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p111760-e1586024.adobeaemcloud.com/bin/franklin.delivery/Ratna1007/eds-sandboxk/main"
+    url: "https://author-p111760-e1586024.adobeaemcloud.com/bin/franklin.delivery/ratna1007/eds-sandbox/main"
     type: "markup"
     suffix: ".html"
